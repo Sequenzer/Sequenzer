@@ -1,8 +1,9 @@
 # Marcel Wack
 
-Mathematician and developer. Ph.D. student in the [Discrete Mathematics/Geometry group](https://www.math.tu-berlin.de/fachgebiete_ag_diskalg/fg_diskrete_mathematik_geometrie/v_menue/diskrete_mathematik_geometrie/) at TU Berlin, supervised by Michael Joswig.
+Mathematician and developer. Ph.D. student in the [Discrete Mathematics/Geometry group](https://www.math.tu-berlin.de/fachgebiete_ag_diskalg/fg_diskrete_mathematik_geometrie/v_menue/diskrete_mathematik_geometrie/) at TU Berlin.
 
-I work on computational methods in combinatorics and algebra, mostly at the intersection of quantum information theory and matroid theory: quantum isomorphisms, quantum automorphism groups and non-commutative Gröbner bases. I like hard computational problems and generating large experimental datasets.
+I work on computational methods in combinatorics and algebra, mostly at the intersection of quantum information theory and matroid theory.
+
 
 [![Website](https://img.shields.io/badge/website-page.math.tu--berlin.de%2F~wack-1f6feb)](https://page.math.tu-berlin.de/~wack/)
 [![Email](https://img.shields.io/badge/email-wack%40math.tu--berlin.de-555)](mailto:wack@math.tu-berlin.de)
@@ -29,6 +30,3 @@ I work on computational methods in combinatorics and algebra, mostly at the inte
 
 Abstracts and teaching on my [website](https://page.math.tu-berlin.de/~wack/).
 
-## Tools
-
-Julia · C++ · Python
